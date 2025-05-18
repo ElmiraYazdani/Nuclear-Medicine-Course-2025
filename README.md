@@ -11,12 +11,12 @@ Welcome to the course! This page contains everything you need:
 ---
 
 ## 📄 Syllabus
-**Instructor:** Prof. Your Name  
-**Email:** your.email@university.edu  
-**Office Hours:** Mondays 2–4 PM, Room 123
+**Instructor:** Elmira Yazdani, PhD in Medical Physics at IUMS  
+**Email:** lmirayazdani@gmai.com 
+**Office Hours:** 
 
 **Course Description:**  
-This course introduces the fundamentals of artificial intelligence...
+This course introduces the fundamentals of nuclear medicine ...
 
 **Grading:**
 - Assignments – 40%
@@ -28,19 +28,19 @@ This course introduces the fundamentals of artificial intelligence...
 ---
 
 ## 📚 Reading List
-1. Week 1: Chapter 1 – Introduction to AI
-2. Week 2: Chapter 2 – Intelligent Agents
+1. Week 1: Chapter 1 – Introduction to NM
+2. Week 2: Chapter 2 – 
 ...
 
 ## 🧪 Assignments
 All assignments will be posted here.
-- [Assignment 1 – Search Algorithms](assignments/assignment1.md)
-- [Assignment 2 – Game Playing](assignments/assignment2.md)
+- [Assignment 1 – ](assignments/assignment1.md)
+- [Assignment 2 – ](assignments/assignment2.md)
 
 ## 🗓️ Schedule
 | Week | Topic | Reading |
 |------|-------|---------|
-| 1 | AI Foundations | Chapter 1 |
+| 1 | NM Foundations | Chapter 1 |
 | 2 | Search | Chapter 3 |
 ...
 
